@@ -1,0 +1,44 @@
+.signIn{
+    width: 320px;
+    height: 335px;
+    background-color: blueviolet;
+    border: 2px solid black; 
+    border-radius: 10px;
+}
+
+#firstName{
+    padding: 5px; 
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#lastName{
+    padding: 5px; 
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+#Username{
+    padding: 5px; 
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+#Password{
+    padding: 5px; 
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+#RePassword{
+    padding: 5px; 
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+
+#submit{
+    padding: 5px;
+    margin-left: 60px;
+}
+

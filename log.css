@@ -1,0 +1,30 @@
+.logIn{
+    width: 320px;
+    height: px;
+    background-color: rgba(91, 232, 20, 0.869);
+    border: 2px solid black; 
+    border-radius: 10px;
+}
+#Username{
+    padding: 5px; 
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+#Password{
+    padding: 5px; 
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+#fPass{
+    padding: 5px; 
+    margin-bottom: 5px;
+    margin-left: 20px;
+}
+
+#log{
+    padding: 5px; 
+    margin-bottom: 25px;
+    margin-left: 130px;
+}
